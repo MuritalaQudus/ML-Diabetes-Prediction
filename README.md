@@ -2,7 +2,7 @@ Diabetes Prediction App
 
 This a Web Appliaction built with Streamlit that uses a Support Vector Machine (SVM) model to predict the likelihood of a person having diabetes based on key medical conditions 
 
-Access the App here :[Diabetes Prediction App]()
+Access the App here :[Diabetes Prediction App](https://ml-diabetes-prediction-k2ashjwzzhhd4ywberznw9.streamlit.app/)
 
 Features
 Predicts diabetes based on inputs like:
